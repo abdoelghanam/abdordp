@@ -1,5 +1,5 @@
 name: Windows-Lilemanager
-  on:
+on:
   workflow_dispatch:
 
 jobs:
